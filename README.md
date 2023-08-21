@@ -24,3 +24,4 @@ Not Working:
 	- AirPlay
 
 OpenCore 0.9.4
+Hackintosh
