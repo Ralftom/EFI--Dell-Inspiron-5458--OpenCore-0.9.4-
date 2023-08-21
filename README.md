@@ -6,6 +6,7 @@ SMBIOS
 
 GPU-Specific “boot-args”:
 	- wegnoegpu
+ 
 AUDIO “boot-args”:
 	- alcid=29
 
